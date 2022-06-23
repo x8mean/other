@@ -1,5 +1,7 @@
+    list = {
         {
             version = 170,
             date = '20.01.2022',
             changes = {'fix1', 'fix2', 'new bug'}
         }
+    }
